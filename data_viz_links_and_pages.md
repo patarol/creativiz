@@ -11,6 +11,8 @@
 
 - [story telling with data](http://www.storytellingwithdata.com/)
 
+- [chartmaker](http://chartmaker.visualisingdata.com/)
+
 - [show me shiny](https://www.showmeshiny.com/) - gallery of `R` web apps
 
 
