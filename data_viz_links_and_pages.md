@@ -5,6 +5,7 @@
 - [the pudding](https://pudding.cool/)
 
 - [flowing data](https://flowingdata.com/)
+
 - [information is beautiful](https://informationisbeautiful.net/)
 
 - [fivethirtyeigth](https://fivethirtyeight.com/)
