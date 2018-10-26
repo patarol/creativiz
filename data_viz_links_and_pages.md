@@ -7,7 +7,7 @@
 - [flowing data](https://flowingdata.com/)
 - [information is beautiful](https://informationisbeautiful.net/)
 
-- [five thirty eigth](https://fivethirtyeight.com/)
+- [fivethirtyeigth](https://fivethirtyeight.com/)
 
 - [story telling with data](http://www.storytellingwithdata.com/)
 
