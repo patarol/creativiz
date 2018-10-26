@@ -32,9 +32,9 @@
 
 There're several libraries/tools for interactive data visualization. Some of them have their wrapper for `R`.
 
-  - [`D3`](https://d3js.org/): a `JavaScript` library for manipulating documents based on data. `D3` helps you bring data to life using `HTML`, `SVG`, and `CSS`. `D3’s` emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. `r2d3` `R` package is tool to wrapper your date into `D3` format.
+  - [`D3`](https://d3js.org/): a `JavaScript` library for manipulating documents based on data. `D3` helps you bring data to life using `HTML`, `SVG`, and `CSS`. `D3’s` emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. `r2d3` `R` package is tool to wrapper data into `D3`.
 
-  - [`colortools`](https://github.com/gastonstat/colortools): `R` package designed to help users generate color schemes and color palettes. It provides some handy functions that will allow you to select and play with colors in an HSV color representation. 
+  - [`colortools`](https://github.com/gastonstat/colortools): `R` package designed to help users generate color schemes and color palettes. It provides some handy functions that will allow you to select and play with colors in an HSV color representation.
 
   - [`Highcharts`](https://www.highcharts.com/): used by some major companies across the world. This library has essentially every chart you could possibly need, it even offers an array of different Gauge charts in the style of activity, speedometer and even electrical meter-style gauges. It’s probably the most advanced library out there regarding types of charts available. Not free for commercial use. [`highcharter`](http://jkunst.com/highcharter/) is its wrapper for working in `R`.
 
